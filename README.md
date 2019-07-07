@@ -1,2 +1,2 @@
 # DS-and-Algo
-Implementation of Algorithms and Data Structures from algorithm
+Implementation of Algorithms and Data Structures from scratch
